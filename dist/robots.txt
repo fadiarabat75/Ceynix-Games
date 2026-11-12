@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ceynix-games-production.up.railway.app/sitemap.xml
